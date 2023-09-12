@@ -1,1 +1,21 @@
-
+{"name":"Publed",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Publed is a decentralized scientific publishing platform that aims to address the challenges of the traditional and centralized publishing system by empowering researchers, liberating them from traditional gatekeepers, protecting their ownership, and enabling the monetization of their genuine work through crypto-economic incentives.",
+"whitePaperLink":"https://linktr.ee/publed",
+"gallery":[{}],
+"deleted":false,
+"primaryColor":"#2596be",
+"twitterHandle":"publed_official",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/2pcs8TC.jpg",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://www.publed.io/",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["Publishing"]
+  
+}
